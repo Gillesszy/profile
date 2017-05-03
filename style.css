@@ -1,0 +1,61 @@
+/* Here goes your CSS */
+.img-circle {
+  width: 100px;
+  height: 100px;
+}
+
+.movie_pic {
+  width: 100px;
+  height: 80px;
+}
+
+body {
+  color: orange;
+  background-color: white;
+}
+
+h1 {
+  color: blue;
+  font-style: 'Russo One', sans-serif;
+}
+
+.fa-facebook {
+  padding-right: 20px;
+  color: white;
+  text-decoration: underline;
+}
+
+.fa-linkedin-square {
+  padding-right: 20px;
+  color: white;
+  text-decoration: underline;
+}
+
+.container {                         /* White background */
+  padding: 5px;
+  width: 500px;
+  margin: 0 auto;
+  border-radius: 4px;                         /* Small radius */
+   /* Subtle shadow */
+  ;
+}
+
+.card {
+  background: black;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2)
+}
+
+.text-center {
+    text-align: center;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+.media li {
+  display: inline-block;
+  }
